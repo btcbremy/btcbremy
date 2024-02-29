@@ -1,1 +1,1 @@
-crypto
+cryptocurrency
